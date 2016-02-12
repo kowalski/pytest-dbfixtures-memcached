@@ -1,0 +1,1 @@
+recursive-include pytest_dbfixtures_memcached *.py
